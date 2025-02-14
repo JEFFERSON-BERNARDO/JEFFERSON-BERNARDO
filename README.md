@@ -1,6 +1,6 @@
 <h1> <b> Olá, bem-vindo. <b/> </h1> 
 
-<h3>Eu sou o Jefferson Bernardo tenho 29 anos e muita vontade de evoluir proficionalmente, atualmente além de trabalhar no setor de qualidade, estou adiquirindo conhecimentos na aréa de programação full stack tais como: <h3/>
+<h3>Eu sou o Jefferson Bernardo tenho 29 anos e muita vontade de evoluir proficionalmente, atualmente estou adiquirindo conhecimentos na aréa de programação full stack tais como: <h3/>
 
 <br>
 
